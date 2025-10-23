@@ -1,4 +1,5 @@
-﻿PCDB-003-001-4,Bambu Lab,ABS,ABS Silver,ABS,,,,
+﻿product_id,manufacturer_name,brand_name,color_name,material_code,color_measured_hex,color_measured_rgb,color_measured_cielab,shopify_url_linkfromset
+PCDB-003-001-4,Bambu Lab,ABS,ABS Silver,ABS,,,,
 PCDB-003-002-4,Bambu Lab,ABS,ABS Black,ABS,,,,
 PCDB-003-003-4,Bambu Lab,ABS,ABS White,ABS,,,,
 PCDB-003-004-4,Bambu Lab,ABS,ABS Bambu Green,ABS,,,,
@@ -580,7 +581,6 @@ PCDB-006-014-5,eSUN,TPE-83A,White,TPU,,,,
 PCDB-006-015-5,eSUN,TPU-LW,White,TPU,,,,
 PCDB-006-016-5,eSUN,TPU-LW,Black,TPU,,,,
 PCDB-006-017-5,eSUN,TPU-LW,Grey,TPU,,,,
-product_id,manufacturer_name,brand_name,color_name,material_code,color_measured_hex,color_measured_rgb,color_measured_cielab,shopify_url_linkfromset
 PCDB-002-001-4,Polymaker,PolyLite ABS,Black,ABS,,,,
 PCDB-002-002-4,Polymaker,PolyLite ABS,White,ABS,,,,
 PCDB-002-003-4,Polymaker,PolyLite ABS,Grey,ABS,,,,
